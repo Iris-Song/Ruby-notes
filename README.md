@@ -13,6 +13,7 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 ├── 1. design idea.md
 ├── 2. control structure.md
 ├── 3. collection.md
+├── 4. string.md
 └── README.md
 ```
 
