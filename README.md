@@ -16,6 +16,8 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 ├── 4. string.md
 ├── 5. object.md
 ├── 6. dynamic typing.md
+├── 7. test framework.md
+├── 8. class.md
 └── README.md
 ```
 
