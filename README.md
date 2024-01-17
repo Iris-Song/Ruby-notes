@@ -21,6 +21,7 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 ├── 9. operator.md
 ├── 10. object equity.md
 ├── 11. module.md
+├── 12. block.md
 └── README.md
 ```
 
