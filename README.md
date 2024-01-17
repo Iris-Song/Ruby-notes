@@ -7,23 +7,24 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 * run a Ruby file: 
 
        ruby [file name]
-## File structure
-```
-.
-├── 1. design idea.md
-├── 2. control structure.md
-├── 3. collection.md
-├── 4. string.md
-├── 5. object.md
-├── 6. dynamic typing.md
-├── 7. test framework.md
-├── 8. class.md
-├── 9. operator.md
-├── 10. object equity.md
-├── 11. module.md
-├── 12. block.md
-└── README.md
-```
+## structure
+### Basic
+1. [design idea](https://github.com/Iris-Song/Ruby-notes/blob/main/1.%20design%20idea.md)
+2. [control structure](https://github.com/Iris-Song/Ruby-notes/blob/main/2.%20control%20structure.md)
+3. [collection](https://github.com/Iris-Song/Ruby-notes/blob/main/3.%20collection.md)
+4. [string](https://github.com/Iris-Song/Ruby-notes/blob/main/4.%20string.md)
+5. [object](https://github.com/Iris-Song/Ruby-notes/blob/main/5.%20object.md)
+6. [dynamic typing](https://github.com/Iris-Song/Ruby-notes/blob/main/6.%20dynamic%20typing.md)
+7. [test framework](https://github.com/Iris-Song/Ruby-notes/blob/main/7.%20test%20framework.md)
+
+### Class, Module, Block
+8. [class](https://github.com/Iris-Song/Ruby-notes/blob/main/8.%20class.md)
+9. [operator](https://github.com/Iris-Song/Ruby-notes/blob/main/9.%20operator.md)
+10. [object equity](https://github.com/Iris-Song/Ruby-notes/blob/main/10.%20object%20equity.md)
+11. [module](https://github.com/Iris-Song/Ruby-notes/blob/main/11.%20module.md)
+12. [block](https://github.com/Iris-Song/Ruby-notes/blob/main/12.%20block.md)
+### Metaprogramming
+13. [hooks](https://github.com/Iris-Song/Ruby-notes/blob/main/13.%hooks.md)
 
 ## Links
 https://ruby-doc.org/
