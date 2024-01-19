@@ -24,7 +24,7 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 11. [module](https://github.com/Iris-Song/Ruby-notes/blob/main/11.%20module.md)
 12. [block](https://github.com/Iris-Song/Ruby-notes/blob/main/12.%20block.md)
 ### Metaprogramming
-13. [hooks](https://github.com/Iris-Song/Ruby-notes/blob/main/13.%hooks.md)
+13. [hooks](https://github.com/Iris-Song/Ruby-notes/blob/main/13.%20hooks.md)
 
 ## Links
 https://ruby-doc.org/
