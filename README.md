@@ -29,7 +29,10 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 15. [modifying class](https://github.com/Iris-Song/Ruby-notes/blob/main/15.%20modifying%20class.md)
 ### Intergration
 16. [DSL](https://github.com/Iris-Song/Ruby-notes/blob/main/16.%20DSL.md)
-17. [DSL](https://github.com/Iris-Song/Ruby-notes/blob/main/17.%20gem.md)
+17. [gem](https://github.com/Iris-Song/Ruby-notes/blob/main/17.%20gem.md)
 
 ## Links
 https://ruby-doc.org/
+
+## project
+[Blog with Ruby on Rails](https://github.com/Iris-Song/Blog-with-Ruby-on-Rails)
