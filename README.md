@@ -25,6 +25,11 @@ Notes for **Eloquent Ruby** written by Obie Fernandez.
 12. [block](https://github.com/Iris-Song/Ruby-notes/blob/main/12.%20block.md)
 ### Metaprogramming
 13. [hooks](https://github.com/Iris-Song/Ruby-notes/blob/main/13.%20hooks.md)
+14. [monkey patching](https://github.com/Iris-Song/Ruby-notes/blob/main/14.%20monkey%20patching.md)
+15. [modifying class](https://github.com/Iris-Song/Ruby-notes/blob/main/15.%20modifying%20class.md)
+### Intergration
+16. [DSL](https://github.com/Iris-Song/Ruby-notes/blob/main/16.%20DSL.md)
+17. [DSL](https://github.com/Iris-Song/Ruby-notes/blob/main/17.%20gem.md)
 
 ## Links
 https://ruby-doc.org/
